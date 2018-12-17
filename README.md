@@ -1,5 +1,7 @@
 # UR5 Controller Singularity
 
+![UR5 with OpenRAVE within a singularity container](images/ur5_openrave.png "UR5 with OpenRAVE within a singularity container")
+
 ## Developers and Contributors
 UR5Controller Singulairyt was developed by the Robotics Lab in the School of Computing at the University of Leeds. 
 - Author: [Rafael Papallas](http://rpapallas.com), [Wissam Bejjani](https://github.com/WissBe).
