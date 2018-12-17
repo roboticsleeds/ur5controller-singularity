@@ -1,7 +1,7 @@
 # UR5 Controller Singularity
 
 <p align="center">
-    ![UR5 with OpenRAVE within a singularity container](images/ur5_openrave.png "UR5 with OpenRAVE within a singularity container")
+    <img src="images/ur5_openrave.png" alt="UR5 with OpenRAVE within a singularity container"/>
 
     Figure 1: UR5 Robot with Ridgeback and RobotiQ end-effettor in OpenRAVE within a Singularity container with Ubuntu 14.04
     and ROS Indigo.
