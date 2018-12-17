@@ -121,6 +121,7 @@ pip install --upgrade --user sympy==0.7.1
 cd /build
 git clone https://github.com/rdiankov/openrave.git
 cd openrave
+git reset --hard 81ec501
 mkdir build; cd build
 cmake -DODE_USE_MULTITHREAD=ON -DOSG_DIR=/usr/local/lib64/ ..
 make -j `nproc`
