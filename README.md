@@ -1,8 +1,11 @@
 # UR5 Controller Singularity
 
-![UR5 with OpenRAVE within a singularity container](images/ur5_openrave.png "UR5 with OpenRAVE within a singularity container")
-Figure 1: UR5 Robot with Ridgeback and RobotiQ end-effettor in OpenRAVE within a Singularity container with Ubuntu 14.04
-and ROS Indigo.
+<p align="center">
+    ![UR5 with OpenRAVE within a singularity container](images/ur5_openrave.png "UR5 with OpenRAVE within a singularity container")
+
+    Figure 1: UR5 Robot with Ridgeback and RobotiQ end-effettor in OpenRAVE within a Singularity container with Ubuntu 14.04
+    and ROS Indigo.
+</p>
 
 ## Developers and Contributors
 UR5Controller Singulairyt was developed by the Robotics Lab in the School of Computing at the University of Leeds. 
