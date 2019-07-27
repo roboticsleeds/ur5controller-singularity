@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="images/ur5_openrave.png" alt="UR5 with OpenRAVE within a singularity container"> <br/>
-    Figure 1: UR5 Robot with Ridgeback and RobotiQ end-effettor in OpenRAVE within a Singularity container with Ubuntu 14.04 and ROS Indigo.
+    Figure 1: UR5 Robot with Ridgeback in OpenRAVE within a Singularity container with Ubuntu 14.04 and ROS Indigo. The host operating system is Ubuntu 18.04.
 </p>
 
 ## Developers and Contributors
